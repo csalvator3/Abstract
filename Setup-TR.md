@@ -72,3 +72,6 @@ docker logs -f --tail=0 <container name>
 cd configs
 cat testnet_consensus_secrets.yaml
 ```
+
+![resim](https://github.com/user-attachments/assets/b7570ec2-b9d1-4f76-a8fa-b6db73041593)
+
