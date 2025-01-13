@@ -75,3 +75,8 @@ cat testnet_consensus_secrets.yaml
 
 ![resim](https://github.com/user-attachments/assets/b7570ec2-b9d1-4f76-a8fa-b6db73041593)
 
+
+## Kullanılan Portlar : 
+
+![resim](https://github.com/user-attachments/assets/3cd95943-34e6-4db2-91db-f7aee1711c19)
+
