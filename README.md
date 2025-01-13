@@ -3,6 +3,16 @@
 
 # Abstract Node Setup 
 
+## System Requirements
+
+| Component        | Testnet Nodes              | Mainnet Nodes                         |
+|------------------|----------------------------|---------------------------------------|
+| **CPU**          | A relatively modern CPU is recommended | A relatively modern CPU is recommended |
+| **RAM**          | 32 GB                     | 32 GB                                 |
+| **Storage**      | 30 GB                     | 300 GB (state grows ~1TB/month)       |
+| **Network**      | 100 Mbps (1 Gbps+ recommended) | 100 Mbps (1 Gbps+ recommended)        |
+
+
 ## 1. Run the following command to update and upgrade system packages:
 
 ```bash
