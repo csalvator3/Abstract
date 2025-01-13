@@ -52,6 +52,12 @@ cd abstract-node/external-node
 ```
 docker compose --file testnet-external-node.yml up -d
 ```
+
+- Uzun Bir İndirme Yapacak : 
+
+![resim](https://github.com/user-attachments/assets/f89a81a2-2451-4cb5-9e51-6df4c61dd083)
+
+
 4. Logları Kontrol Edelim : 
 ```
 docker logs -f --tail=0 <container name>
