@@ -63,7 +63,10 @@ docker compose --file testnet-external-node.yml up -d
 ```
 4. Check the logs
 ```
-docker logs -f --tail=0 <container name>
+docker logs -f --tail=0 testnet-node-external-node-1
+docker logs -f --tail=0 testnet-node-postgres-1
+docker logs -f --tail=0 testnet-node-prometheus-1
+docker logs -f --tail=0 testnet-node-grafana-1
 ```
 - `testnet-node-external-node-1`
 - `testnet-node-postgres-1`
